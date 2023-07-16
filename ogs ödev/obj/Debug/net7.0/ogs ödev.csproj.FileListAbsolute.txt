@@ -3,3 +3,13 @@ D:\onmuhasebeodev\ogs-odev\ogs ödev\obj\Debug\net7.0\ogs ödev.GeneratedMSBuild
 D:\onmuhasebeodev\ogs-odev\ogs ödev\obj\Debug\net7.0\ogs ödev.AssemblyInfoInputs.cache
 D:\onmuhasebeodev\ogs-odev\ogs ödev\obj\Debug\net7.0\ogs ödev.AssemblyInfo.cs
 D:\onmuhasebeodev\ogs-odev\ogs ödev\obj\Debug\net7.0\ogs ödev.csproj.CoreCompileInputs.cache
+D:\onmuhasebeodev\ogs-odev\ogs ödev\bin\Debug\net7.0\ogs ödev.exe
+D:\onmuhasebeodev\ogs-odev\ogs ödev\bin\Debug\net7.0\ogs ödev.deps.json
+D:\onmuhasebeodev\ogs-odev\ogs ödev\bin\Debug\net7.0\ogs ödev.runtimeconfig.json
+D:\onmuhasebeodev\ogs-odev\ogs ödev\bin\Debug\net7.0\ogs ödev.dll
+D:\onmuhasebeodev\ogs-odev\ogs ödev\bin\Debug\net7.0\ogs ödev.pdb
+D:\onmuhasebeodev\ogs-odev\ogs ödev\obj\Debug\net7.0\ogs ödev.dll
+D:\onmuhasebeodev\ogs-odev\ogs ödev\obj\Debug\net7.0\refint\ogs ödev.dll
+D:\onmuhasebeodev\ogs-odev\ogs ödev\obj\Debug\net7.0\ogs ödev.pdb
+D:\onmuhasebeodev\ogs-odev\ogs ödev\obj\Debug\net7.0\ogs ödev.genruntimeconfig.cache
+D:\onmuhasebeodev\ogs-odev\ogs ödev\obj\Debug\net7.0\ref\ogs ödev.dll
