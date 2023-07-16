@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Monster\\.nuget\\packages\\": {}
+    "C:\\Users\\gorke\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Monster\\Desktop\\ödev\\ogs ödev\\ogs ödev\\ogs ödev.csproj",
+      "projectUniqueName": "D:\\onmuhasebeodev\\ogs-odev\\ogs ödev\\ogs ödev.csproj",
       "projectName": "ogs ödev",
-      "projectPath": "C:\\Users\\Monster\\Desktop\\ödev\\ogs ödev\\ogs ödev\\ogs ödev.csproj",
-      "packagesPath": "C:\\Users\\Monster\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Monster\\Desktop\\ödev\\ogs ödev\\ogs ödev\\obj\\",
+      "projectPath": "D:\\onmuhasebeodev\\ogs-odev\\ogs ödev\\ogs ödev.csproj",
+      "packagesPath": "C:\\Users\\gorke\\.nuget\\packages\\",
+      "outputPath": "D:\\onmuhasebeodev\\ogs-odev\\ogs ödev\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Monster\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gorke\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }

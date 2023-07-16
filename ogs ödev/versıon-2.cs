@@ -6,7 +6,32 @@ using System.Threading.Tasks;
 
 namespace ogs_ödev
 {
-    internal class versıon_2
+
+    class Gelir
     {
+        public string gelirAdi { get; set; }
+
+        public double kdvTutarı { get; set; }
+
+        public double gelirTutarı { get; set; }
+
+
+        public Gelir(string gelirAdi, double kdvTutarı, double gelirTutarı)
+        {
+            gelirAdi = gelirAdi;
+
+            kdvTutarı = kdvTutarı;
+
+            gelirTutarı = gelirTutarı;
+        }
+
+
+        internal class versıon_2
+        {
+            static List<Gelir> giderListesi = new List<Gelir>();
+        }
+
+
     }
+
 }

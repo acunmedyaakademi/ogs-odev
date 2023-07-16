@@ -1,0 +1,5 @@
+D:\onmuhasebeodev\ogs-odev\ogs ödev\obj\Debug\net7.0\ogs ödev.csproj.AssemblyReference.cache
+D:\onmuhasebeodev\ogs-odev\ogs ödev\obj\Debug\net7.0\ogs ödev.GeneratedMSBuildEditorConfig.editorconfig
+D:\onmuhasebeodev\ogs-odev\ogs ödev\obj\Debug\net7.0\ogs ödev.AssemblyInfoInputs.cache
+D:\onmuhasebeodev\ogs-odev\ogs ödev\obj\Debug\net7.0\ogs ödev.AssemblyInfo.cs
+D:\onmuhasebeodev\ogs-odev\ogs ödev\obj\Debug\net7.0\ogs ödev.csproj.CoreCompileInputs.cache
