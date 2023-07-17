@@ -6,18 +6,18 @@ class Program
     {
         bool cıkıs = false;
 
-        while (cıkıs)
+        while (!cıkıs)
         {
             Console.WriteLine("1. Vergi hesapla");
             Console.WriteLine("2. Çıkış");
             Console.Write("Seçiminizi yapın (1 veya 2): ");
-            string choice = Console.ReadLine();
+            string seçenek = Console.ReadLine();
 
-            if (choice == "1")
+            if (seçenek == "1")
             {
                 vergihespla();
             }
-            else if (choice == "2")
+            else if (seçenek == "2")
             {
                 cıkıs = true;
             }
